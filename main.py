@@ -1,4 +1,4 @@
-from arithmetic_arranger import arithmetic_arranger
+from arithmetic_formatter import arithmetic_arranger
 from unittest import main
 
 
